@@ -1,0 +1,9 @@
+body {
+  background-image: url("../../images/CopernPeak.png") ;
+  background-size: cover;
+}
+
+h2 {
+  color: lavender;
+  text-align: center;
+}

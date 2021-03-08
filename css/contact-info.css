@@ -1,0 +1,9 @@
+body {
+  background-image:url("../../images/full_moon.jpg");
+  background-size: cover;
+}
+
+h2 {
+  color: aliceblue;
+  text-align: center;
+}

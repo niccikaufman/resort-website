@@ -1,0 +1,9 @@
+body {
+  background-image: url("../../images/lunarbeauty.png") ;
+  background-size: cover;
+}
+
+h2 {
+  color: lavender;
+  text-align: center;
+}
