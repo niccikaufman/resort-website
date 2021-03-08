@@ -1,9 +1,22 @@
 body {
   background-image:url("../../images/full_moon.jpg");
   background-size: cover;
+  text-align: center;
 }
 
 h2 {
   color: aliceblue;
   text-align: center;
+}
+
+form {
+  color:darkgoldenrod;
+  background-color: antiquewhite;
+  text-align: center;
+  border: 1px solid rgb(245, 202, 202);
+  border-radius: 50px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
 }
