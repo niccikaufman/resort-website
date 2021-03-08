@@ -7,3 +7,17 @@ h2 {
   color: lavender;
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  color: antiquewhite;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  width: 80px;
+}
+
+li a {
+  display: block;
+  background-color: #dddddd;
+}
